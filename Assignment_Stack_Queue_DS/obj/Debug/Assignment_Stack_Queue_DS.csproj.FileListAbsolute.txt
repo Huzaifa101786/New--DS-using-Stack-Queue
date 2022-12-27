@@ -1,0 +1,8 @@
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\bin\Debug\Assignment_Stack_Queue_DS.exe.config
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\bin\Debug\Assignment_Stack_Queue_DS.exe
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\bin\Debug\Assignment_Stack_Queue_DS.pdb
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\obj\Debug\Assignment_Stack_Queue_DS.csproj.AssemblyReference.cache
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\obj\Debug\Assignment_Stack_Queue_DS.csproj.SuggestedBindingRedirects.cache
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\obj\Debug\Assignment_Stack_Queue_DS.csproj.CoreCompileInputs.cache
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\obj\Debug\Assignment_Stack_Queue_DS.exe
+D:\Intern\Assignment_Stack_Queue_DS\Assignment_Stack_Queue_DS\obj\Debug\Assignment_Stack_Queue_DS.pdb
